@@ -1,6 +1,5 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
 @import url("font-awesome.min.css");
-@import url("stylesheet.css")
 
 /*
 	Helios by HTML5 UP
@@ -2812,7 +2811,7 @@
 				}
 
 					#navButton .toggle:before {
-						font-family: arabicaregular;
+						font-family: FontAwesome;
 						text-decoration: none;
 						font-style: normal;
 						font-weight: normal;
