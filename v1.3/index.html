@@ -17,7 +17,7 @@
     <!-- Custom CSS -->
     <link href="css/grayscale.css" rel="stylesheet">
     <link href="css/dropdown.css" rel="stylesheet">
-
+    <link href="css/styles.css" rel="stylesheet">
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
@@ -130,26 +130,24 @@
       </div>
 </nav>
 
-    <!-- Intro Header -->
-    <header class="intro">
-        <div class="intro-body">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">SONGKHLA</h1>
-                        <p class="intro-text">Souht Of THAILAND<br> </p>
-                        <a href="#about" class="btn btn-circle page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+<div id="carousel" class="carousel slide carousel-fade">
+<ol class="carousel-indicators">
+<li data-target="#carousel" data-slide-to="0" class="active"></li>
+<li data-target="#carousel" data-slide-to="1"></li>
+<li data-target="#carousel" data-slide-to="2"></li>
+</ol>
+
+<div class="carousel-inner">
+<div class="active item"></div>
+<div class="item"></div>
+<div class="item"></div>
+</div>
+
+<a class="carousel-control left" href="#carousel" data-slide="prev">‹</a>
+<a class="carousel-control right" href="#carousel" data-slide="next">›</a>
+</div>
 
 
-    <!-- Map Section -->
-    <div id="map"></div>
 
 
     <!-- Footer -->
@@ -165,7 +163,7 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
-
+    <script src="js/s.js"></script>
     <!-- Plugin JavaScript -->
     <script src="js/jquery.easing.min.js"></script>
 
