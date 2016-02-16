@@ -404,5 +404,14 @@ div.img-resize {
 	overflow: hidden;
 	text-align: center;
 }
+#footer {
+  height: 70px;
+  background-color: #1C1C1C;
 
+}
+#footer > .container {
+  padding-top:5px
+  padding-left: 15px;
+  padding-right: 15px;
+}
 /*# sourceMappingURL=bootstrap.min.css.map */
