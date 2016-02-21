@@ -6758,3 +6758,14 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+#carousel {
+    margin-top: 20px;
+}
+.item .thumb {
+	width: 25%;
+	cursor: pointer;
+	float: left;
+}
+.item .thumb img, .item img {
+	width: 100%;	
+}
