@@ -64,4 +64,4 @@ $content = <<<END
 
 END;
 
-include __DIR__ . '/layouts/frontpage.php';
+include __DIR__ . '\_layouts\default.php';

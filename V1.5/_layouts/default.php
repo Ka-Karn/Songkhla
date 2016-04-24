@@ -59,35 +59,35 @@
 
               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">แนะนำจังหวัด<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="history.html">ประวัติ</a></li>
-                    <li><a href="location.html">ที่ตั้ง</a></li>
-                    <li><a href="Salogan.html">คำขวัญ</a></li>
-                    <li><a href="Amphur.html">อำเภอในสงขลา</a></li>
-                    <li><a href="Map.html">แผนที่</a></li>
+                    <li><a href="/history">ประวัติ</a></li>
+                    <li><a href="/location">ที่ตั้ง</a></li>
+                    <li><a href="/Salogan">คำขวัญ</a></li>
+                    <li><a href="/Amphur">อำเภอในสงขลา</a></li>
+                    <li><a href="/Map">แผนที่</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">สถานที่ท่องเที่ยว<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                       <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">อำเภอหาดใหญ่</a>
                         <ul class="dropdown-menu">
-                          <li><a href="KuanKhaoWangForestPark.html">วนอุทยานควนเขาวัง</a></li>
-                          <li><a href="ToneHachangWaterfalls.html">น้ำตกโตนงาช้าง</a></li>
-                          <li><a href="MagicEyeMuseum.html">พิภิตภัณฑ์ 3 มิติ</a></li>
-                          <li><a href="Kim-YongMarket.html">ตลาดกิมหยง</a></li>
-                          <li><a href="KlongHaeFloatingMarket.html">ตลาดน้ำคลองแห</a></li>
+                          <li><a href="/KuanKhaoWangForestPark">วนอุทยานควนเขาวัง</a></li>
+                          <li><a href="/ToneHachangWaterfalls">น้ำตกโตนงาช้าง</a></li>
+                          <li><a href="/MagicEyeMuseum">พิภิตภัณฑ์ 3 มิติ</a></li>
+                          <li><a href="/Kim-YongMarket">ตลาดกิมหยง</a></li>
+                          <li><a href="/KlongHaeFloatingMarket">ตลาดน้ำคลองแห</a></li>
                         </ul>
                       </li>
                       <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">อำเภอสงขลา</a>
                         <ul class="dropdown-menu">
-                          <li><a href="LaemSonAon.html">แหลมสนอ่อน</a></li>
-                          <li><a href="LaemSamila.html">แหลมสมิหลา</a></li>
-                          <li><a href="SongkhlaWalkingStreet.html">ถนนคนเดิน</a></li>
-                          <li><a href="NangNgamRoad.html">ถนนนางงาม</a></li>
-                          <li><a href="TangKuanMountain.html">เขาตังกวน</a></li>
+                          <li><a href="/LaemSonAon">แหลมสนอ่อน</a></li>
+                          <li><a href="/LaemSamila">แหลมสมิหลา</a></li>
+                          <li><a href="/SongkhlaWalkingStreet">ถนนคนเดิน</a></li>
+                          <li><a href="/NangNgamRoad">ถนนนางงาม</a></li>
+                          <li><a href="/TangKuanMountain">เขาตังกวน</a></li>
                         </ul>
                         <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">อำเภอสทิงพระ</a>
                           <ul class="dropdown-menu">
-                              <li><a href="KuKudWaterfowlPark.html">อุทยานนกน้ำคูขุด</a></li>
+                              <li><a href="/KuKudWaterfowlPark">อุทยานนกน้ำคูขุด</a></li>
                           </ul>
                       </li>
                   </ul>
@@ -96,20 +96,20 @@
                   <ul class="dropdown-menu">
                       <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">อำเภอหาดใหญ่</a>
                         <ul class="dropdown-menu">
-                          <li><a href="ChokdeeTaeTiam.html">โชคดีแต่เตี้ยม</a></li>
-                          <li><a href="DachaFriedChicken.html">ไก่ทอดเดชา</a></li>
-                          <li><a href="NoodleZabb.html">ก๋วยเตี๋ยวท้าพิสูจน์</a></li>
-                          <li><a href="JackieChanNoodle.html">ก๋วยเตี๋ยวเรือเฉินหลง</a></li>
-                          <li><a href="Koongtung.html">กุ้งถัง</a></li>
+                          <li><a href="/ChokdeeTaeTiam">โชคดีแต่เตี้ยม</a></li>
+                          <li><a href="/DachaFriedChicken">ไก่ทอดเดชา</a></li>
+                          <li><a href="/NoodleZabb">ก๋วยเตี๋ยวท้าพิสูจน์</a></li>
+                          <li><a href="/JackieChanNoodle">ก๋วยเตี๋ยวเรือเฉินหลง</a></li>
+                          <li><a href="/Koongtung">กุ้งถัง</a></li>
                         </ul>
                       </li>
                       <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">อำเภอสงขลา</a>
                         <ul class="dropdown-menu">
-                          <li><a href="I-TIM-ONG.html">ไอติมโอ่ง</a></li>
-                          <li><a href="NoodlesUnderChineseOperaTheatre.html">ก๋วยเตี๋ยวใต้โรงงิ้ว</a></li>
-                          <li><a href="PigtailNoodle.html">ก๋วยเตี๋ยวหางหมู</a></li>
-                          <li><a href="KiatFangRestaurant.html">เกียดฟั่ง ข้าวสตู</a></li>
-                          <li><a href="SiradaRestaurant.html">ศิรดา </a></li>
+                          <li><a href="/I-TIM-ONG">ไอติมโอ่ง</a></li>
+                          <li><a href="/NoodlesUnderChineseOperaTheatre">ก๋วยเตี๋ยวใต้โรงงิ้ว</a></li>
+                          <li><a href="/PigtailNoodle">ก๋วยเตี๋ยวหางหมู</a></li>
+                          <li><a href="/KiatFangRestaurant">เกียดฟั่ง ข้าวสตู</a></li>
+                          <li><a href="/SiradaRestaurant">ศิรดา </a></li>
                         </ul>
                       </il>
                   </ul>
@@ -118,16 +118,16 @@
                   <ul class="dropdown-menu">
                       <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">อำเภอหาดใหญ่</a>
                         <ul class="dropdown-menu">
-                          <li><a href="TR-Rock-Hill-Hotel.html">T R Rock Hill </a></li>
-                          <li><a href="Pang-MaiResort.html">ปางไม้รีสอร์ท</a></li>
-                          <li><a href="Hat-YaiYouthHostel.html">Hat Yai Youth Hostel</a></li>
+                          <li><a href="/TR-Rock-Hill-Hotel">T R Rock Hill </a></li>
+                          <li><a href="/Pang-MaiResort">ปางไม้รีสอร์ท</a></li>
+                          <li><a href="/Hat-YaiYouthHostel">Hat Yai Youth Hostel</a></li>
                         </ul>
                       </li>
                       <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">อำเภอสงขลา</a>
                         <ul class="dropdown-menu">
-                          <li><a href="KaosengResort.html">เก้าเส้ง รีสอร์ท</a></li>
-                          <li><a href="Sabai-EzHotel.html">สบาย อีซี่ รีสอร์ท</a></li>
-                          <li><a href="BP-SamilaBeachHotelResort.html">BP Samila Beach</a></li>
+                          <li><a href="/KaosengResort">เก้าเส้ง รีสอร์ท</a></li>
+                          <li><a href="/Sabai-EzHotel">สบาย อีซี่ รีสอร์ท</a></li>
+                          <li><a href="/BP-SamilaBeachHotelResort">BP Samila Beach</a></li>
                         </ul>
                       </il>
                   </ul>
